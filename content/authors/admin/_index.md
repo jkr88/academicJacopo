@@ -36,8 +36,4 @@ Jacopo is a biochemist with a passion for science communication. He has a M.S. i
 
 
 
-
-
-sent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
