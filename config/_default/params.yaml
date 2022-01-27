@@ -29,12 +29,6 @@ address:
   postcode: '92507'
   country: United States
   country_code: US
-coordinates:
-  latitude: 
-  longitude: 
-directions: 
-office_hours:
-appointment_url: 
 contact_links:
   - icon: twitter
     icon_pack: fab
