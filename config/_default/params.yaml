@@ -30,13 +30,11 @@ address:
   country: United States
   country_code: US
 coordinates:
-  latitude: ''
-  longitude: ''
+  latitude: 
+  longitude: 
 directions: 
 office_hours:
-  - ''
-  - ''
-appointment_url: ''
+appointment_url: 
 contact_links:
   - icon: twitter
     icon_pack: fab
