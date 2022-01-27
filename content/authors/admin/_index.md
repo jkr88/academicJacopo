@@ -1,5 +1,6 @@
 ---
 role: ""
+avatar_filename: avatar.jpg
 bio: My research interests include the mRNA circularization model in Eukaryotic
   translation initiation.
 interests: []
