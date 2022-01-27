@@ -1,27 +1,18 @@
 ---
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+role: ""
+bio: My research interests include the mRNA circularization model in Eukaryotic
+  translation initiation.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://twitter.com/J_airapetyan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jacopo-airapetyan-b74b78127/
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -38,7 +29,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Jacopo Airapetyan
 email: ""
 ---
 
