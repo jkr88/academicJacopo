@@ -16,27 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: test
+- description: 1%
   icon: flask
   icon_pack: fas
   name: Protein expression and purification
-  - description: test
+  - description: 1%
   icon: dna
   icon_pack: fas
   name: Molecular biology & biochemical research methods
-  - description: test
+  - description: 1%
   icon: tools
   icon_pack: fas
   name: Diagnostic/problem solving
-- description: test
+- description: 1%
   icon: python
   icon_pack: fab
   name: Python
-- description: test
+- description: 1%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: test
+- description: 1%
   icon: camera-retro
   icon_pack: fas
   name: Photography
