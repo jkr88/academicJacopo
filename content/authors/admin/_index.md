@@ -30,9 +30,10 @@ highlight_name: true
 title: Jacopo Airapetyan
 email: ""
 ---
-
-
-Jacopo is a biochemist with a passion for science communication. He has a M.S. in Biochem/Biophysics from the University of California Riverside, where he studied mRNA circularization in eukaryotic translation initiation. Jacopo’s research involved methods spanning from molecular biology, biochemistry, and biophysics.
+Jacopo is a dedicated, goal-oriented biochemist experienced in a wide variety of molecular biology and biochemical laboratory research techniques. Principal strengths include conducting collaborative and independent\
+research using molecular biology, biophysics, and biochemistry techniques with\
+significant experience in gene cloning, translation regulation, recombinant protein expression,\
+purification, and characterization through mutational analysis, functional assays and smFRET studies. Exceptional problem solving, communication, and multi-tasking skills.
 
 
 
