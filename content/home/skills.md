@@ -31,7 +31,7 @@ feature:
 - description: 
   icon: tools
   icon_pack: fas
-  name: Diagnostic/problem solving
+  name: Diagnostic skills/technical aptitude
 - description: 
   icon: python
   icon_pack: fab
