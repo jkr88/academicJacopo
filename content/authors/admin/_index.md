@@ -21,7 +21,7 @@ education:
   courses:
     - course: MSc in Cellular, Molecular, and Developmental Biology
       institution: University of California Riverside
-      year: 2020
+      year: 2021
     - course: BSc in Biochemistry
       institution: California State University Los Angeles
       year: 2017
