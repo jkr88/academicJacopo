@@ -24,14 +24,14 @@ feature:
   icon: dna
   icon_pack: fas
   name: Molecular biology & biochemical research methods
-- description: 
-  icon: tools
-  icon_pack: fas
-  name: Diagnostic/problem solving
 - description:
   icon: chart-line
   icon_pack: fas
   name : Enzymatic Assays
+- description: 
+  icon: tools
+  icon_pack: fas
+  name: Diagnostic/problem solving
 - description: 
   icon: python
   icon_pack: fab
