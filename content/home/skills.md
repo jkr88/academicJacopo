@@ -20,11 +20,11 @@ feature:
   icon: flask
   icon_pack: fas
   name: Protein expression and purification
-  - description: 1%
+- description: 1%
   icon: dna
   icon_pack: fas
   name: Molecular biology & biochemical research methods
-  - description: 1%
+- description: 1%
   icon: tools
   icon_pack: fas
   name: Diagnostic/problem solving
