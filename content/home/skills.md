@@ -37,6 +37,10 @@ feature:
   icon_pack: fab
   name: Python
 - description: 
+  icon: teacher
+  icon_pack: fas
+  name: Teaching
+  - description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
