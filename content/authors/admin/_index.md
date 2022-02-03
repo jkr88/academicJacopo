@@ -31,9 +31,7 @@ title: Jacopo Airapetyan
 email: ""
 ---
 Jacopo is a dedicated, goal-oriented biochemist experienced in a wide variety of molecular biology and biochemical laboratory research techniques. Principal strengths include conducting collaborative and independent\
-research using molecular biology, biophysics, and biochemistry techniques with\
-significant experience in gene cloning, translation regulation, recombinant protein expression,\
-purification, and characterization through mutational analysis, functional assays and smFRET studies. Exceptional problem solving, communication, and multi-tasking skills.
+research using molecular biology, biophysics, and biochemistry techniques with significant experience in gene cloning, translation regulation, recombinant protein expression, purification, and characterization through mutational analysis, functional assays and smFRET studies. Exceptional problem solving, communication, and multi-tasking skills.
 
 
 
