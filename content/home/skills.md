@@ -40,7 +40,7 @@ feature:
   icon: teacher
   icon_pack: fas
   name: Teaching
-  - description: 
+- description: 
   icon: camera-retro
   icon_pack: fas
   name: Photography
